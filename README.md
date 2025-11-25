@@ -43,8 +43,8 @@ I'm a passionate **Front-End Web Developer** focused on creating clean, responsi
 
 ## 📫 Contact
 
-* **GitHub:** *(Add your GitHub link here)*
-* **Email:** *(Add your email here)*
+* **GitHub:** https://github.com/bappyy07
+* **Email:** arnysamar@gmail.com
 
 ---
 
