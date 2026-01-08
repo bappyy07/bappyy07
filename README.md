@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Bappy
 
-### 🚀 Front-End Web Developer
+### 🚀 Full-Stack Developer
 
 I'm a passionate **Front-End Web Developer** focused on creating clean, responsive, and user‑friendly web interfaces.
 
@@ -14,12 +14,15 @@ I'm a passionate **Front-End Web Developer** focused on creating clean, responsi
 * **Bootstrap**
 * **JavaScript (ES6+)**
 * **React.js**
+* **Redux**
+* **Node.Js**
+* **Express>js**
 
 ---
 
 ## 📚 Currently Learning
 
-* **Redux** for state management
+* **Express.Js**
 * Preparing to become a **MERN Stack Web Developer** 🚀
 
 ---
